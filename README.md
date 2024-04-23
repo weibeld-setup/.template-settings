@@ -22,6 +22,12 @@
    |:----------|:----------|
    | _**Foo**_ | _**Bar**_ |
    | _**Baz**_ | _**Kux**_ |
+1. Execute the following:
+   ```bash
+   echo foo
+   ```
+1. See this image:<br />
+   ![Image](res/image.png)
 
 #### Import
 
